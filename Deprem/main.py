@@ -1,0 +1,3 @@
+import getInformation
+
+getInformation.getInformation()
